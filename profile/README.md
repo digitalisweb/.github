@@ -1,6 +1,6 @@
 # Digitalis Web Corp
 
-**Digitally Down to Earth.** A software studio in Nelson, BC. We design, build and run websites, web applications, online stores and AI systems for organizations across Canada and the UK.
+**Digitally Down to Earth.** A software studio in Nelson, BC and Devon, UK. We design, build and run websites, web applications, online stores and AI systems for organizations across Canada and the UK.
 
 - **Full stack, with all the fixings.** We know our stack intimately, from the server up to the people who use it. We build, host, secure and run the whole system, so you have one accountable partner instead of five vendors.
 - **Yours to keep.** Systems you own instead of software you rent. Your data stays yours, and you're free to take your system to another developer at any time.
